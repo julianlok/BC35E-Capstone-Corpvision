@@ -1134,6 +1134,11 @@ footer {
   padding: 0;
 }
 
+.footer__brand:hover {
+  text-decoration: none;
+  color: var(--bg-color);
+}
+
 .footer__brand i {
   color: var(--primary-color);
   margin-right: 15px;
